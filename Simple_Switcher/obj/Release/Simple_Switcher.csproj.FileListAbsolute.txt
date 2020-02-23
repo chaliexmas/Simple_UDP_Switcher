@@ -1,0 +1,16 @@
+C:\Users\Carlos\Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.exe
+C:\Users\Carlos\Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.pdb
+C:\Users\Carlos\Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.simple_Switcher.resources
+C:\Users\Carlos\Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.Properties.Resources.resources
+C:\Users\Carlos\Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\bin\Release\Simple_Switcher.exe
+C:\Users\Carlos\Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\bin\Release\Simple_Switcher.pdb
+C:\Documents and Settings\Carlos\My Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.exe
+C:\Documents and Settings\Carlos\My Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.pdb
+C:\Documents and Settings\Carlos\My Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\bin\Release\Simple_Switcher.exe
+C:\Documents and Settings\Carlos\My Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\bin\Release\Simple_Switcher.pdb
+C:\Documents and Settings\Carlos\My Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carlos\My Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.simple_Switcher.resources
+C:\Documents and Settings\Carlos\My Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.Properties.Resources.resources
+C:\Documents and Settings\Carlos\My Documents\Visual Studio 2008\Projects\Simple_Switcher\Simple_Switcher\obj\Release\Simple_Switcher.csproj.GenerateResource.Cache

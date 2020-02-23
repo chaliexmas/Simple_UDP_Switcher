@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Simple_Switcher">
+</Property><Property Name="Solution File" Value="C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Simple_Switcher.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Simple_Switcher.suo">
+</Property><Property Name="Date" Value="Tuesday, May 27, 2008">
+</Property><Property Name="Time" Value="11:16 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Simple_Switcher.sln" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Simple_Switcher.suo" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher.suo">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Simple_Switcher.csproj" Description="Project file successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Simple_Switcher.csproj">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\AddForm.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\AddForm.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\AddForm.Designer.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\AddForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Channels_Manager.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Channels_Manager.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Connections_Manager.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Connections_Manager.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\SplashScreen.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\SplashScreen.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\SplashScreen.Designer.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\SplashScreen.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\SSForm.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\SSForm.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\SSForm.Designer.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\SSForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Program.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Program.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\stop_Z.gif" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\stop_Z.gif">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\wsmr_logoX.gif" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\wsmr_logoX.gif">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\wsmr_logo.gif" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\wsmr_logo.gif">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\take.gif" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\take.gif">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Switcher.ico" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Switcher.ico">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\AddForm.resx" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\AddForm.resx">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\SplashScreen.resx" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\SplashScreen.resx">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\SSForm.resx" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\SSForm.resx">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Carlos\Documents\Visual Studio 2008\Simple_Switcher\Backup\Simple_Switcher\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Simple_Switcher.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Simple_Switcher" Source="Simple_Switcher\Simple_Switcher.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Simple_Switcher.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Simple_Switcher.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Simple_Switcher" Source="Simple_Switcher\Simple_Switcher.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
